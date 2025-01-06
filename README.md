@@ -23,12 +23,11 @@
 ## ✨ Features
 
 - 🛠️ Full-featured Discord, Twitter and Telegram connectors
-- 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
+- 🔗 Support for every model (local Llama, Grok, OpenAI, Anthropic, etc.)
 - 👥 Multi-agent and room support
 - 📚 Easily ingest and interact with your documents
 - 💾 Retrievable memory and document store
 - 🚀 Highly extensible - create your own actions and clients
-- ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
 - 📦 Just works!
 
 ## Video Tutorials
